@@ -1,0 +1,14 @@
+{
+  "name": "xor_decrypt_shit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiruhara Nanako",
+  "license": "MIT",
+  "dependencies": {
+    "xor-crypto-js": "^1.6.10"
+  }
+}
